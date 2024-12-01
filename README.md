@@ -54,14 +54,15 @@ No formal tests are available for this project, but users can verify functionali
 ## Further customization
 Navigate to the `package.json` and modify the scripts object so that it looks like this example:
 
-` "scripts": {                    
-"dev": "vite",     
-       "start": "vite",    
-       "build": "vite build",     
-       "lint": "eslint src --ext js,jsx --report-unused-disable-directives --max-warnings 0",    
-       "preview": "vite preview"   
-       },
-`    
+  "scripts": {
+    "dev": "vite",
+    "start": "vite",
+    "build": "vite build",
+    "lint": "eslint src --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+    "preview": "vite preview"
+  },
+
+
 Navigate to the `vite.config.js` file and edit the export object so that it looks like this example:       
 
 `export default defineConfig({     

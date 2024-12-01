@@ -21,14 +21,14 @@ This application will be deployed to Netlify. My React portfolio is crafted to h
 ## Installation
 Clone the repository using the SSH:
 
-git clone git@github.com:elele20005/React_Portfolio.git
+git clone git@github.com:`elele20005/React_Portfolio.git`
 
 Navigate to the project folder: 
 
-cd React_Portfolio Open React+Vite on your browser to view the portfolio locally.
+cd React_Portfolio open React+Vite on your browser to view the portfolio locally.
 
 ## Usage
-The portfolio is meant to provide a personal overview of my work, including project highlights, technical skills, and an "About Me" section. It can be shared with potential employers, collaborators, or as an online resume.
+The React Portfolio is meant to provide a personal overview of my work, including "About Me", "Portfolio", "Contact", and "Resume" section. It can be shared with potential employers, collaborators, or as an online resume.
 
 ## License
 This project is licensed under the MIT license and Apache 2.0. See the LICENSE file for details.

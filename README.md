@@ -1,11 +1,12 @@
 # React-Portfolio
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-
-## Description
+## User Story
 AS AN employer looking for candidates with experience building single-page applications
 I WANT to view a potential employee's deployed React portfolio of work samples
 SO THAT I can assess whether they're a good candidate for an open position
+
+## Description: React+Vite
 
 My personal portfolio website is crafted to highlight my projects, skills, and experience. It adopts a basic design, featuring neutral tones for a sleek and professional appearance. 
 

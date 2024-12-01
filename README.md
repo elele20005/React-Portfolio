@@ -6,9 +6,9 @@ AS AN employer looking for candidates with experience building single-page appli
 I WANT to view a potential employee's deployed React portfolio of work samples
 SO THAT I can assess whether they're a good candidate for an open position
 
-## Description: React+Vite
-
-My personal portfolio website is crafted to highlight my projects, skills, and experience. It adopts a basic design, featuring neutral tones for a sleek and professional appearance. 
+## Description: Vite+React
+My task is to create a portfolio using my new React skills, which will help set me apart from other developers whose portfolios don’t use the latest technologies.
+This application will be deployed to Netlify. My React portfolio is crafted to highlight my skills and experience. It adopts a basic design, featuring neutral tones for a sleek and professional appearance. 
 
 ## Table of Contents
 - [Installation](#installation)

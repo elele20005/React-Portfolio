@@ -3,6 +3,10 @@
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 ## Description
+AS AN employer looking for candidates with experience building single-page applications
+I WANT to view a potential employee's deployed React portfolio of work samples
+SO THAT I can assess whether they're a good candidate for an open position
+
 My personal portfolio website is crafted to highlight my projects, skills, and experience. It adopts a basic design, featuring neutral tones for a sleek and professional appearance. 
 
 ## Table of Contents
@@ -16,11 +20,11 @@ My personal portfolio website is crafted to highlight my projects, skills, and e
 ## Installation
 Clone the repository using the SSH:
 
-git clone git@github.com:elele20005/README_Generator.git
+git clone git@github.com:elele20005/React_Portfolio.git
 
 Navigate to the project folder: 
 
-cd README_Generator Open index.html on your browser to view the portfolio locally.
+cd React_Portfolio Open React+Vite on your browser to view the portfolio locally.
 
 ## Usage
 The portfolio is meant to provide a personal overview of my work, including project highlights, technical skills, and an "About Me" section. It can be shared with potential employers, collaborators, or as an online resume.

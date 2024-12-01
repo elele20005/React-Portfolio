@@ -25,7 +25,19 @@ git clone git@github.com:`elele20005/React_Portfolio.git`
 
 Navigate to the project folder: 
 
-cd React-Portfolio open React+Vite on your browser to view the portfolio locally.
+In the command line, navigate to the desired parent folder and run `npm create vite`.
+
+You do not need to perform a `mkdir` command to create one manually.
+
+From the first list of options, select your framework; we'll be using `React`.
+
+From the second list of options, select your variant; we'll be using `JavaScript`.
+
+cd into your newly created project folder and run `npm install`.
+
+In later activities we'll add additional NPM packages to our vite apps such as `bootstrap`, `dotenv`, and `axios`.
+
+Run `npm dev/npm run dev` and navigate to the prompted URL to see your app.
 
 ## Usage
 The React Portfolio is meant to provide a personal overview of my work, including "About Me", "Portfolio", "Contact", and "Resume" section. It can be shared with potential employers, collaborators, or as an online resume.
@@ -41,9 +53,9 @@ This portfolio is a personal project, and contributions are not required.  Sugge
 ## Tests
 No formal tests are available for this project, but users can verify functionality by opening the page in multiple browsers to ensure accurate funtionality.
 
-## Aditional Requirement
+## Portfolio Sample
 
- Mock Up shows appearance and functionality: https://git.bootcampcontent.com/University-of-Minnesota/UofM-VIRT-FSF-PT-08-2024-U-LOLC/-/raw/main/12-React/02-Challenge/Assets/20-react-homework-demo-01.gif
+ Mock Up appearance and functionality: https://git.bootcampcontent.com/University-of-Minnesota/UofM-VIRT-FSF-PT-08-2024-U-LOLC/-/raw/main/12-React/02-Challenge/Assets/20-react-homework-demo-01.gif
 
 ## Questions
 For more questions, please reach out to:

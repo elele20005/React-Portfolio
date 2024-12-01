@@ -21,7 +21,7 @@ This application will be deployed to Netlify. My React portfolio is crafted to h
 ## Installation
 Clone the repository using the SSH:
 
-git clone git@github.com:`elele20005/React_Portfolio.git`
+git clone git@github.com:`elele20005/React-Portfolio.git`
 
 Navigate to the project folder: 
 

@@ -41,9 +41,9 @@ This portfolio is a personal project, and contributions are not required.  Sugge
 ## Tests
 No formal tests are available for this project, but users can verify functionality by opening the page in multiple browsers to ensure accurate funtionality.
 
-#######
+## Aditional Requirement
 
- https://git.bootcampcontent.com/University-of-Minnesota/UofM-VIRT-FSF-PT-08-2024-U-LOLC/-/raw/main/12-React/02-Challenge/Assets/20-react-homework-demo-01.gif
+ Mock Up shows appearance and functionality: https://git.bootcampcontent.com/University-of-Minnesota/UofM-VIRT-FSF-PT-08-2024-U-LOLC/-/raw/main/12-React/02-Challenge/Assets/20-react-homework-demo-01.gif
 
 ## Questions
 For more questions, please reach out to:

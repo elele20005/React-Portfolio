@@ -25,7 +25,7 @@ git clone git@github.com:`elele20005/React_Portfolio.git`
 
 Navigate to the project folder: 
 
-cd React_Portfolio open React+Vite on your browser to view the portfolio locally.
+cd React-Portfolio open React+Vite on your browser to view the portfolio locally.
 
 ## Usage
 The React Portfolio is meant to provide a personal overview of my work, including "About Me", "Portfolio", "Contact", and "Resume" section. It can be shared with potential employers, collaborators, or as an online resume.
@@ -35,11 +35,11 @@ This project is licensed under the MIT license and Apache 2.0. See the LICENSE f
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-## Contributing
+## Contribution
 This portfolio is a personal project, and contributions are not required.  Suggestions for improvements are always welcome. Feel free to reach out via email.
 
 ## Tests
-No formal tests are available for this project, but users can verify functionality by opening the page in multiple browsers to ensure compatibility.
+No formal tests are available for this project, but users can verify functionality by opening the page in multiple browsers to ensure accurate funtionality.
 
 #######
 
@@ -49,4 +49,3 @@ No formal tests are available for this project, but users can verify functionali
 For more questions, please reach out to:
 - GitHub: https://github.com/elele20005
 - Email: ralphconsultant1@gmail.com
-- Linkedin: https://www.linkedin.com/in/rafiu-lawal-9b5679121/

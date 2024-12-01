@@ -51,7 +51,8 @@ This portfolio is a personal project, and contributions are not required.  Sugge
 ## Tests
 No formal tests are available for this project, but users can verify functionality by opening the page in multiple browsers to ensure accurate funtionality.
 
-## Further Custumization
+## Further customization
+Navigate to the `package.json` and modify the scripts object so that it looks like this example:
 `  "scripts": {
     "dev": "vite",
     "start": "vite",
@@ -59,6 +60,15 @@ No formal tests are available for this project, but users can verify functionali
     "lint": "eslint src --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
   },
+`
+Navigate to the `vite.config.js` file and edit the export object so that it looks like this example:
+`export default defineConfig({
+  plugins: [react()],
+  server: {
+    port: 3000,
+    open: true
+  }
+})
 `
 
 ## Portfolio Sample

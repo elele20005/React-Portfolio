@@ -1,0 +1,75 @@
+/* Updated Background and Text Styles */
+.about-section {
+  background-color: #005A9C; /* Deep blue background */
+  color: #fff;
+  padding: 3rem 2rem;
+  text-align: left;
+  border-top: 4px solid #ffd700; /* Gold separator for a premium touch */
+}
+
+/* Title Styling */
+.about-section h2 {
+  font-family: Arial, sans-serif;
+  font-size: 2.5rem;
+  color: #61dafb;
+  margin-bottom: 1rem;
+  text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.6);
+}
+
+/* Paragraph Text */
+.about-section p {
+  font-family: Arial, sans-serif;
+  font-size: 1.2rem;
+  line-height: 1.6;
+  color: #ccc;
+  max-width: 900px;
+  text-align: left;
+  margin: 0 auto;
+}
+
+/* Avatar Container */
+.avatar-container {
+  display: flex;
+  justify-content: left;
+  align-items: left;
+  margin: 1.5rem 0;
+}
+
+/* Avatar Image */
+/* Avatar Icon */
+.avatar {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  border: 2px solid #61dafb;
+  object-fit: cover;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+  margin: 1rem;
+}
+
+.avatar:hover {
+  transform: scale(1.1);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.6);
+}
+
+
+/* Responsive Design */
+@media (max-width: 868px) {
+  .about-section {
+    padding: 2rem 1rem;
+  }
+
+ /* .avatar {
+    width: 180px;
+    height: 180px;
+  }*/
+
+  .about-section h2 {
+    font-size: 2rem;
+  }
+
+  .about-section p {
+    font-size: 1rem;
+  }
+}

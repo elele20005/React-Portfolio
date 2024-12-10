@@ -1,0 +1,49 @@
+/* Footer Styles */
+.site-footer {
+  background-color: #005A9C;
+  color: #fff;
+  padding: 2rem;
+  text-align: center;
+}
+
+.footer-content {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+.site-footer p {
+  font-size: 1rem;
+  margin: 0;
+}
+
+.social-links {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 1rem;
+}
+
+.social-links a {
+  color: #ffd700;
+  text-decoration: none;
+  font-weight: bold;
+  transition: color 0.3s ease;
+  font-size: 1.2rem;
+  margin: 0 1rem;
+}
+
+.social-links a:hover {
+  color: #ffeb3d;
+  text-decoration: underline;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .social-links {
+    flex-direction: column;
+  }
+  .social-links a {
+    margin: 0.5rem;
+  }
+}

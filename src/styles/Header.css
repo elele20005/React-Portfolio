@@ -1,0 +1,53 @@
+/* Header Styles */
+.site-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #005A9C;
+  padding: 1rem 2rem;
+  color: white;
+}
+
+.site-title h1 {
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.main-nav {
+  display: flex;
+  align-items: center;
+}
+
+.main-nav ul {
+  list-style: none;
+  padding: 0;
+  display: flex;
+}
+
+.main-nav li {
+  margin: 0 1rem;
+}
+
+.nav-link {
+  text-decoration: none;
+  color: #ffd700;
+  font-weight: bold;
+  transition: color 0.3s ease;
+  font-size: 1.2rem;
+}
+
+.nav-link:hover {
+  color: #ffeb3d;
+  text-decoration: underline;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .main-nav {
+    display: none;
+  }
+  .site-header {
+    justify-content: space-between;
+    padding: 1rem;
+  }
+}

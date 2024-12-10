@@ -1,0 +1,61 @@
+/* Root Container */
+#root {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+/* Body Reset */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  box-sizing: border-box;
+}
+
+/* Header and Navigation */
+.site-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: url('/src/assets/wooden-pattern.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 1rem 4rem;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+
+.site-title h1 {
+  font-family: 'Cursive', sans-serif;
+  color: white;
+  font-size: 2.5rem;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.6);
+  margin: 0;
+}
+
+.main-nav ul {
+  list-style: none;
+  display: flex;
+  gap: 1.5rem;
+  padding: 0;
+  margin: 0;
+}
+
+.main-nav .nav-link {
+  color: white;
+  font-size: 1.2rem;
+  font-family: Arial, Helvetica, sans-serif;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.main-nav .nav-link:hover {
+  color: #61dafb;
+}
+

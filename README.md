@@ -62,7 +62,7 @@ Run `npm dev/npm run dev` and navigate to the prompted URL to see your app.
 
 
 ## Usage
-You’ll use `vite` to build your portfolio, which will include the following:
+`Vite` is use to build your portfolio, which will include the following:
 
 
 A single `Header` component that appears on multiple pages

@@ -85,7 +85,9 @@ To start the application, run:
 command: `npm run dev`
 
 ## License
-This project is licensed under the MIT License and Apache 2.0
+This project is licensed under the MIT license and Apache 2.0. See the LICENSE file for details.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 ## Contribution
 Contributions are welcome! Please feel free to submit pull requests.

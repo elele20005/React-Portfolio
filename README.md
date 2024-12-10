@@ -95,9 +95,9 @@ This Challenge combines many of the skills covered so far. In addition to the us
 
 command: `npm run dev` 
 
+## This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 ## For more questions, please reach out to:
  
 - GitHub: https://github.com/elele20005
 - Email: ralphconsultant1@gmail.com
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.

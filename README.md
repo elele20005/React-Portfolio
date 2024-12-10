@@ -8,7 +8,7 @@ AS AN employer looking for candidates with experience building single-page appli
 I WANT to view a potential employee's deployed React portfolio of work samples
 SO THAT I can assess whether they're a good candidate for an open position
 
-## Description React + TypeScript + Vite 
+## Description React + JavaScript + Vite 
 My task is to create a portfolio using my new React skills, which will help set me apart from other developers whose portfolios don’t use the latest technologies. The README includes sections for Description, Installation, Usage, License, Contributing, Tests, and Questions.
 
 ## Table of Contents

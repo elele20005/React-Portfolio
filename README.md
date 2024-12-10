@@ -38,7 +38,7 @@ run `npm create vite`.
 second list of options sellect `JavaScript`       
 sellect `React`, `TypeScript`.       
 command: cd `React-Portfolio` and run ` npm install`           
-Run `npm dev/npm run dev` and navigate to the prompted URL to see your app.
+run `npm dev/npm run dev` and navigate to the prompted URL to see your app.
 
 **Further customization**   
 

@@ -4,12 +4,12 @@ import viteLogo from '/vite.svg'
 import './styles/App.css'*/
 
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import Header from './components/Header';
-import Footer from './components/Footer';
-import AboutMe from './components/AboutMe';
-import Portfolio from './components/Portfolio';
-import Contact from './components/Contact';
-import Resume from './components/Resume';
+import Header from './components/Header.jsx';
+import Footer from './components/Footer.jsx';
+import AboutMe from './components/AboutMe.jsx';
+import Portfolio from './components/Portfolio.jsx';
+import Contact from './components/Contact.jsx';
+import Resume from './components/Resume.jsx';
 import './styles/App.css'
 
 function App() {

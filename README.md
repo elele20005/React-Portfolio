@@ -93,7 +93,7 @@ To test the application, run the React + Vite and verify that outputs match expe
 ## Additional Requirements
 This Challenge combines many of the skills covered so far. In addition to the user story and acceptance criteria, we've provided some guidelines to help get started. Your application should use Vite for building your Portfolio. The application will be invoked by using the following command:
 
-command: `npm run dev` 
+command: `npm run build` 
 
 **This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules**
 

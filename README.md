@@ -96,7 +96,7 @@ This project is licensed under the MIT license and Apache 2.0. See the LICENSE f
 Contributions are welcome! Please feel free to submit pull requests.
 
 ## Tests
-To test the application, run the React + Vite and verify that outputs match expected results based on various inputs
+To test the application, run the React + Vite and verify that outputs match expected results based on various inputs and use command: `npm run build` .
 
 
 ## Additional Requirements

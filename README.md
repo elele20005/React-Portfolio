@@ -9,7 +9,11 @@ I WANT to view a potential employee's deployed React portfolio of work samples
 SO THAT I can assess whether they're a good candidate for an open position
 
 ## Description React + JavaScript + Vite 
-My task is to create a portfolio using my new React skills, which will help set me apart from other developers whose portfolios don’t use the latest technologies. This is a single-page web developer portfolio that will showcase my skills, projects, and contact details. The portfolio features sections like About Me, Portfolio, Contact, and Resume, complemented by a user-friendly navigation system that highlights the active section. The page is dynamic, responsive, and effectively showcases my skills and expertise as a developer. The README includes sections for Description, Installation, Usage, License, Contributing, Tests, and Questions.
+My task is to create a portfolio using my new React skills, which will help set me apart from other developers whose portfolios don’t use the latest technologies. This is a single-page web developer portfolio that will showcase my skills, projects, and contact details. The portfolio features sections like About Me, Portfolio, Contact, and Resume, complemented by a user-friendly navigation system that highlights the active section. The page is dynamic, responsive, and effectively showcases my skills and expertise as a developer. The Snippet is show below: 
+
+
+The README includes sections for Description, Installation, Usage, License, Contributing, Tests, and Questions.   
+
 
 ## Table of Contents
 

@@ -14,7 +14,7 @@ My task is to create a portfolio using my new React skills, which will help set 
 ## Table of Contents
 
 -Description     
--Installation      ``
+-Installation      
 -Usage        
 -License      
 -Contributing       

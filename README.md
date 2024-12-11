@@ -15,7 +15,7 @@ My task is to create a portfolio using my new React skills, which will help set 
 ![React-Portfolio PDF](https://github.com/user-attachments/assets/644fd830-9b34-410a-8c74-d398a8f101a4)
 
 
-The README includes sections for Description, Installation, Usage, License, Contributing, Tests, and Questions.   
+The README includes sections for Description, Installation, Usage, License, Contributions, Tests, and Questions.   
 
 
 ## Table of Contents
